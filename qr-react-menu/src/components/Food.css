@@ -1,0 +1,18 @@
+.Food{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid black;
+    gap: 15px;
+    margin: 0 auto;
+    width: 48vw;
+    height: 100px;
+}
+
+.Food-edit{
+    position: absolute;
+    bottom: 5px;
+    right: 75px;
+}
+
